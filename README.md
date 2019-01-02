@@ -1,2 +1,2 @@
-# benjdj6.github.io
-permalink: /index.html
+# huzaifakhan.github.io
+
