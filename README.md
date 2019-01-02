@@ -1,2 +1,2 @@
-# benjdj6.github.io
+# huzaifakhan.github.io
 permalink: /index.html
